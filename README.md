@@ -12,3 +12,11 @@
 8. parsicar
 9. fasttext
 10. hazm
+
+
+me in web
+
+(sokanacademy)[https://sokanacademy.com/profile/tarrahchi]
+(virgool)[https://virgool.io/@tarrahchi]
+(gitlab)[https://gitlab.com/tarrahchi]
+
