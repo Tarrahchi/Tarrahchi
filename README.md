@@ -16,7 +16,12 @@
 
 me in web
 
-(sokanacademy)[https://sokanacademy.com/profile/tarrahchi]
-(virgool)[https://virgool.io/@tarrahchi]
-(gitlab)[https://gitlab.com/tarrahchi]
+[Sokanacademy](https://sokanacademy.com/profile/tarrahchi)
+[Virgool](https://virgool.io/@tarrahchi)
+[Gitlab](https://gitlab.com/tarrahchi)
+[Codepen](https://codepen.io/Tarrah-Chi)
+[Replit](https://replit.com/@TarrahChi)
+[Aparat](https://www.aparat.com/Tarrahchi)
+[Dribbble](https://dribbble.com/Tarrahchi)
+[Roocket](https://roocket.ir/@tarrahchi)
 
