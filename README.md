@@ -16,12 +16,12 @@
 
 me in web
 
-[Sokanacademy](https://sokanacademy.com/profile/tarrahchi)
-[Virgool](https://virgool.io/@tarrahchi)
-[Gitlab](https://gitlab.com/tarrahchi)
-[Codepen](https://codepen.io/Tarrah-Chi)
-[Replit](https://replit.com/@TarrahChi)
-[Aparat](https://www.aparat.com/Tarrahchi)
-[Dribbble](https://dribbble.com/Tarrahchi)
-[Roocket](https://roocket.ir/@tarrahchi)
+[Sokanacademy](https://sokanacademy.com/profile/tarrahchi)<br>
+[Virgool](https://virgool.io/@tarrahchi)<br>
+[Gitlab](https://gitlab.com/tarrahchi)<br>
+[Codepen](https://codepen.io/Tarrah-Chi)<br>
+[Replit](https://replit.com/@TarrahChi)<br>
+[Aparat](https://www.aparat.com/Tarrahchi)<br>
+[Dribbble](https://dribbble.com/Tarrahchi)<br>
+[Roocket](https://roocket.ir/@tarrahchi)<br>
 
